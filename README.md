@@ -1,5 +1,7 @@
 ### A small correction of the dark style of the https://archlinux.org.ru
-### Detailed description - https://archlinux.org.ru/forum/topic/18077/
+
+#### Detailed description - https://archlinux.org.ru/forum/topic/18077/
+#### Style on userstyles.org - https://userstyles.org/styles/153004/archlinuxru-forum-dark-style-fix
 
 #### In Vivaldi-snapshot
 ![](/screenshots/archlinux-forum.png?raw=true)
