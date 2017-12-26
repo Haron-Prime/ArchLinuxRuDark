@@ -1,7 +1,7 @@
 ### A small correction of the dark style of the https://archlinux.org.ru
 ### Detailed description - https://archlinux.org.ru/forum/topic/18077/
 
-
+#### Vivald-snapshot
 ![](/screenshots/archlinux-forum.png?raw=true)
 
 ### License - WTFPL © 2017  http://www.wtfpl.net/ 
