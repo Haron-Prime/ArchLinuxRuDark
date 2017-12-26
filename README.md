@@ -3,8 +3,11 @@
 #### Detailed description - https://archlinux.org.ru/forum/topic/18077/
 #### Style on userstyles.org - https://userstyles.org/styles/153004/archlinuxru-forum-dark-style-fix
 
-#### In Vivaldi-snapshot
-![](/screenshots/archlinux-forum.png?raw=true)
+#### 1920px
+![](/screenshots/1920.png?raw=true)
+
+#### 960px
+![](/screenshots/960.png?raw=true)
 
 ### License - WTFPL © 2017  http://www.wtfpl.net/ 
 
