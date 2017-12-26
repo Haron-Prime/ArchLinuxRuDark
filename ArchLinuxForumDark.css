@@ -144,7 +144,7 @@ blockquote {
 }
 }
 
-@-moz-document url-prefix("https://cse.google.ru") {
+@-moz-document url-prefix("https://cse.google.ru"), url-prefix("http://cse.google.ru") {
 body, #cse-boby, #cse, .cse .gsc-control-cse, .gsc-control-cse, .gsc-preview-reviews, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em, .gsc-above-wrapper-area-container, .gsc-result-info {
     background: #222 !important;
     color: #aaa !important;
