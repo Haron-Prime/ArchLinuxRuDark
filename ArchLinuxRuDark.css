@@ -37,6 +37,9 @@ body {
     background-image: none !important;
     background-color: #333 !important;
 }
+.input-group {
+    top: -2px !important;
+}
 .input-group .form-control:first-child, .input-group-btn > .btn-default {
     height: 20px !important;
     font-size: 12px !important;
