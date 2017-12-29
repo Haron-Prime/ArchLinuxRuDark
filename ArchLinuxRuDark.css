@@ -29,13 +29,13 @@ body {
     color: #7bd !important;
 }
 .navbar .nav .active a {
-    background: #333 !important;
+    background: #222 !important;
     color: #7bd !important;
     font-weight: bold !important;
 }
 .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
     background-image: none !important;
-    background-color: #333 !important;
+    background-color: #222 !important;
 }
 .input-group {
     top: -2px !important;
@@ -108,7 +108,7 @@ a:hover, a:focus {
     border: solid 1px #555 !important;
     font-size: 0.8em !important;
 }
-.btn-primary:hover, .btn-primary:focus, .btn-default:hover, .btn-default:focus, .btn-success:hover, .btn-success:focus, .btn-info:hover, .btn-info:focus, .btn-warning:hover, .btn-warning:focus, .btn-danger:hover, .btn-danger:focus {
+.btn-primary:hover, .btn-primary:focus, .btn-default:hover, .btn-default:focus, .btn-success:hover, .btn-success:focus, .btn-info:hover, .btn-info:focus, .btn-warning:hover, .btn-warning:focus, .btn-danger:hover, .btn-danger:focus, .btn-logout:hover, .btn-logout:focus {
     background-color: #222 !important;
     color: #7bd !important;
 }
