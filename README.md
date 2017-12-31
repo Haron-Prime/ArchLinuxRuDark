@@ -9,7 +9,7 @@
 #### 960px
 ![](/screenshots/960.png?raw=true)
 
-### License - WTFPL © 2017  http://www.wtfpl.net/ 
+### License - [WTFPL](http://www.wtfpl.net/ "WTFPL") 
 
 ```
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
