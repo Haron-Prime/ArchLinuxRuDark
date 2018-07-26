@@ -7,7 +7,7 @@ body {
     color: #aaa !important;
     line-height: 1.3 !important;
 }
-.topic-list>tbody>tr:nth-child(odd)>td, .category-table>tbody>tr:nth-child(odd)>td, .topic-list>tbody>tr:nth-child(odd)>th, .category-table>tbody>tr:nth-child(odd)>th, .post-info, .post thead, .post tfoot, .block .header, .block .info, .navbar-nav>li>.dropdown-menu {
+.topic-list>tbody>tr:nth-child(odd)>td, .category-table>tbody>tr:nth-child(odd)>td, .topic-list>tbody>tr:nth-child(odd)>th, .category-table>tbody>tr:nth-child(odd)>th, .post-info, .post thead, .post tfoot, .block .header, .block .info, .navbar-nav>li>.dropdown-menu, textarea {
     background-color: #222 !important;
 }
 .navbar, .navbar-inverse, .navbar-inverse .navbar-collapse.wrapper  {
